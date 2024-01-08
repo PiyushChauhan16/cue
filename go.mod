@@ -1,6 +1,7 @@
-module cuelang.org/go
+module github.com/cuelang/cue
 
-go 1.20
+
+go 1.18
 
 require (
 	cuelabs.dev/go/oci/ociregistry v0.0.0-20231217163254-6feb86eb6e06
